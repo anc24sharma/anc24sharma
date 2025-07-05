@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anchal sharma 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning java dsa
 
 <!---
 anc24sharma/anc24sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
